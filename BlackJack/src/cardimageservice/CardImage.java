@@ -1,7 +1,6 @@
 package cardimageservice;
 
 public class CardImage {
-	
     private String[] cardImage = null;
 
     public CardImage() {
@@ -15,5 +14,4 @@ public class CardImage {
     public String[] getCardImage() {
         return cardImage;
     }
-
 }
